@@ -10,7 +10,7 @@ const Hero = (props) => (
     <LeftSection>
       <SectionTitle main center>
         Welcome To <br /> 
-        Janajan Jeyabalan's <br />
+        Janajan Jeyabalan&apos;s <br /> {/* Escaped the single quote */}
         Personal Portfolio <br />
       </SectionTitle>
       <SectionText>
