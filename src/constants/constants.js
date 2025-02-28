@@ -53,5 +53,5 @@ export const projects = [
     { year: 2021, text: 'Royal Brokers Corporation Internship', },
     { year: 2022, text: 'Founded Road Surface Deterioration AI/ML Application', },
     { year: 2023, text: 'Software Developer @ CRA', },
-    { year: 2024, text: "Software Developer Project Lead @ CRA", },
+    { year: '2024-2025', text: "Software Developer Project Lead @ CRA", },
   ];

@@ -63,7 +63,7 @@ const Timeline = () => {
                 id={`carousel__item-${index}`}
                 active={activeItem}
                 onClick={(e) => handleClick(e, index)}>
-                <CarouselItemTitle>
+                <CarouselItemTitle style={{ whiteSpace: 'nowrap' }}>
                   {`${item.year}`}
                   <CarouselItemImg
                     width="208"
