@@ -1,5 +1,14 @@
 export const projects = [
     {
+      title: 'Road Surface Deterioration AI/ML Application',
+      description: "A road surface deterioration AI/ML application is a software tool that uses artificial intelligence and machine learning algorithms to predict the condition of road surfaces. The application analyzes data from various sources, such as images, videos, and sensors, to identify signs of deterioration and predict future maintenance needs.",
+      image: 'https://i.imgur.com/NUom8yG.png',
+      tags: ['Python', 'Kafka', 'Neo4j',],
+      source: 'https://github.com/Capstone-RSD',
+      visit: 'https://github.com/Capstone-RSD',
+      id: 0,
+    },
+    {
       title: 'Face Recognition App',
       description: "Face recognition app is a technology-based application that identifies individuals from images or videos by comparing facial features of the subject with a database of stored faces. The app typically uses deep learning algorithms to analyze the facial features, extract relevant information, and match it with the stored images.",
       image: 'https://i.imgur.com/55AXLAG.png',
@@ -38,7 +47,7 @@ export const projects = [
     {
       title: 'Jeopardy Application',
       description: "Jeopardy game application is a digital version of the popular TV quiz show. The app simulates the experience of playing Jeopardy, offering users a chance to test their knowledge on various categories such as history, science, literature, and pop culture. The app features a game board with multiple categories and dollar amounts, and users select a category and dollar amount to answer a question.",
-      image: 'https://i.imgur.com/C2VtmF3.png',
+      image: 'https://i.imgur.com/G6kOj2h.png',
       tags: ['C'],
       source: 'https://github.com/Janajan-Jeyabalan/JeopardyOS',
       visit: 'https://github.com/Janajan-Jeyabalan/JeopardyOS',
