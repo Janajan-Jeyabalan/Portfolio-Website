@@ -59,7 +59,7 @@ export const projects = [
     { year: 2018, text: 'Started My Journey', },
     { year: 2019, text: 'Worked As A Freelance Developer', },
     { year: 2020, text: 'Founded Klothelabel', },
-    { year: 2021, text: 'Royal Brokers Corporation Internship', },
+    { year: 2021, text: 'Software Developer Internship @ Royal Brokers Corporation', },
     { year: 2022, text: 'Founded Road Surface Deterioration AI/ML Application', },
     { year: 2023, text: 'Software Developer @ CRA', },
     { year: '2024-2025', text: "Software Developer Project Lead @ CRA", },
